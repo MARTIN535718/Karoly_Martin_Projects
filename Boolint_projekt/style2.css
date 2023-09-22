@@ -26,9 +26,7 @@ h2, h3{
     padding-right: 1px;
 }
 
-
-
-.goal {
+.kep {
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -36,37 +34,19 @@ h2, h3{
 }
 
 .hatter {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 40%;
-    border:20px solid rgb(0, 0, 255);
+    border:20px solid rgb(102, 100, 100);
 	border-radius:10px;
 	
-}
-
-
-
-
-.termekek {
-    margin-top: 20px;
-    float: left;
-}
-
-.ruha {
-    border: 10px solid black;
-    width: 20%;
     
 }
 
-.kebab {
-    width: 23%;
-    border: 10px solid black;
-    margin-left: 10px;
+.ruha {
+    width: 20%;
+    margin-top: 15px;
+    float: left;
+    border: 20px solid rgb(31, 30, 30);
 }
 
-.penz {
-    width: 26%;
-    border: 10px solid black;
-    margin-left: 10px;
+.vonal {
+    border: 100px solid white;
 }
