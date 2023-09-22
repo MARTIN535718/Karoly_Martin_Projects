@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(31, 30, 30);
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    font-size: 50px;
+}
+
+h2, h3{
+    color: white;
+}
+
+.bal {
+    list-style: none;
+    color: white;
+    float: left;
+    padding-left: 70px;
+}
+
+.jobb {
+    color: white;
+    float: right;
+    list-style: none;
+    padding-right: 70px;
+}
+
+.kep {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.hatter {
+    border:20px solid rgb(102, 100, 100);		/* szegély legyen vastagabb, fehér*/
+	border-radius:10px;			/* szegély lekerekítése*/
+	
+    
+}
