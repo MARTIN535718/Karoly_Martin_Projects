@@ -1,0 +1,8 @@
+
+            Console.WriteLine("\n8. FELADAT: GYEPESÍTÉS");
+            Console.Write("Kérlek mondd meg mekkora a kör sugara (méterben): ");
+            string sugar = Console.ReadLine();
+            double szam = double.Parse(sugar);
+            double szamitas = (szam * szam) * 3.14;
+            double vegeeredmeny = szamitas * 2500 / 2;
+            Console.WriteLine("A kör félterületének gyepesítési költsége: {0} forint.", vegeeredmeny);
